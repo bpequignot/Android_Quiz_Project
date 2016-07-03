@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Good Luck!</string>
+    <string name="brandon_s_quiz">Brandon\'s Quiz!</string>
+    <string name="your_name">Type your name here:</string>
+    <string name="question_one">What are the values of the modulus and argument of the complex number z = 5 − 2i?</string>
+    <string name="q1a1">|z| = √(29) and arg(z) = 338.2°</string>
+    <string name="q1a2">|z| = √(21) and arg(z) = 338.2°</string>
+    <string name="question_two">2. 20% of 2 is equal to:</string>
+    <string name="q2a1">4</string>
+    <string name="q2a2">0.4</string>
+    <string name="q2a3">0.04</string>
+    <string name="question_three">3. Which supervillians did Mark Hamill voice?</string>
+    <string name="two_face">Two-Face</string>
+    <string name="hobgoblin">Hobgoblin</string>
+    <string name="joker">Joker</string>
+    <string name="magneto">Magneto</string>
+    <string name="question_four">4. During which President\'s term of office did the first man walk on the moon?</string>
+    <string name="nixon">R. Nixon</string>
+    <string name="ford">G. Ford</string>
+    <string name="carter">J. Carter</string>
+    <string name="question_five">5. Which German scientist discovered the X-Ray in 1895?</string>
+    <string name="altmann">Richard Altmann</string>
+    <string name="roentgen">Wilhelm Roentgen</string>
+    <string name="question_six">6. In what location(s) does Google have office(s)?</string>
+    <string name="denmark">Denmark</string>
+    <string name="atlanta">Atlanta, GA</string>
+    <string name="indianapolis">Indianapolis, IN</string>
+    <string name="montreal">Montreal</string>
+    <string name="question_seven">7. Who was the last president of the Soviet Union?</string>
+    <string name="gorbachev">Mikail Gorbachev</string>
+    <string name="stalin">Joseph Stalin</string>
+    <string name="question_eight">8. What was Google\'s original name?</string>
+    <string name="backlink">BackLink</string>
+    <string name="froogle">Froogle</string>
+    <string name="backrub">BackRub</string>
+    <string name="question_nine">9. What is a single unit of quanta called?</string>
+    <string name="quantum">Quantum</string>
+    <string name="quince">Quince</string>
+    <string name="quantic">Quantic</string>
+    <string name="question_ten">10. What is the best selling video game of all time?</string>
+    <string name="minecraft">Minecraft</string>
+    <string name="wii_sports">Wii Sports</string>
+    <string name="tetris">Tetris</string>
+    <string name="results">Results</string>
+    <string name="format_result_message">%1$s your score is %2$d out of %3$d</string>
+</resources>
